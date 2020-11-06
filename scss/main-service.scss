@@ -1019,6 +1019,11 @@ body{
 
                       }/*item*/
 
+                      .program_item:hover{
+                        opacity: 0.8;
+                        transition: 0.3s;
+                      }
+
 
                       
 
@@ -1543,6 +1548,12 @@ body{
                     @include sp{
                       display: block;
                     }
+
+                    .program_item:hover{
+                      opacity: 0.8;
+                      transition: 0.3s;
+                    }
+
 
                     .program_item{
                         background-color: #FFF9E8;
