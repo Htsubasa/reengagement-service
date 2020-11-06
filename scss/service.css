@@ -1619,7 +1619,7 @@ html body .content_box .bubble_part img {
   margin-right: 30px;
   margin-left: 20px;
   width: 277px;
-  height: 164px;
+  height: 196px;
 }
 
 @media (max-width: 768px) {
@@ -1635,7 +1635,7 @@ html body .content_box .bubble_part img {
 @media (max-width: 425px) {
   html body .content_box .bubble_part img {
     width: 200px;
-    height: 120px;
+    height: 160px;
   }
 }
 
